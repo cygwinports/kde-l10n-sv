@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-sv"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Swedish translation files"
 DESCRIPTION="KDE Swedish translation files"
+
+ARCH=noarch
