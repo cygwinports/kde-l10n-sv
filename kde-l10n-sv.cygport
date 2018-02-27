@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-sv"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Swedish translation files"
 DESCRIPTION="KDE Swedish translation files"
